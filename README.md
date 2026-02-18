@@ -43,7 +43,7 @@ I enjoy turning designs into responsive and clean user interfaces using modern w
 ## 🏆 Recent Achievements
 
 - ✅ Certified by *Free Code Camp* [Responsive Web Design](https://www.freecodecamp.org/certification/nantenaina601/responsive-web-design-v9)  
-- 🎯 Certified by *CISCO NetAcad* [Network Technician](https://www.credly.com/badges/440250b8-788e-4d0b-8a00-9abfd01e317f/linked_in_profile)
+- 🎯 Certified by *CISCO NetAcad* [Network Technician](https://www.credly.com/badges/440250b8-788e-4d0b-8a00-9abfd01e317f/linked_in_profile)  
 
 ---
 
@@ -57,10 +57,8 @@ I enjoy turning designs into responsive and clean user interfaces using modern w
 
 ## 📫 Connect With Me  
 
-- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="18"/> 
-  **LinkedIn**: [Sitraka RALAINANDRASANA](https://linkedin.com/in/sitrakaralainandrasana)  
-- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/twitter/twitter-original.svg" width="18"/> 
-  **Twitter / X**: [Haja Nantenaina](https://x.com/StrkNante)  
+- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="18"/> **LinkedIn** : [Sitraka RALAINANDRASANA](https://linkedin.com/in/sitrakaralainandrasana)  
+- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/twitter/twitter-original.svg" width="18"/> **Twitter / X** : [Haja Nantenaina](https://x.com/StrkNante)   
 
 ---
 
