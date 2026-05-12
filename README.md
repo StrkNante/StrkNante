@@ -33,8 +33,8 @@ I enjoy turning designs into responsive and clean user interfaces using modern w
 ## 🛠️ Tech Stack
 
 - **Fields:** IT, Networking, Telecommunications, Cybersecurity, Web Development  
-- **Languages:** Python, Java, JavaScript(JS, Node.js)  
-- **Frameworks & Tools:** Next.JS, React.JS, Tailwind CSS  
+- **Languages:** Python, Java, JavaScript  
+- **Frameworks & Tools:** React.JS, Tailwind CSS, Shadcn, ExpressJS, FastAPI  
 - **Version Control:** Git & GitHub  
 - **Other Skills:** Machine Learning & Deep Learning, Responsive Design, UI/UX Implementation  
 
